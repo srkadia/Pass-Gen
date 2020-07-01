@@ -1,4 +1,4 @@
-<h1 align="center">p-gen v1.0</h1>
+<h1 align="center">p-gen v1.1</h1>
 <p align="center">
       Simple random password gnerator for Termux
 </p>
