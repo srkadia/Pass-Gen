@@ -13,9 +13,9 @@
 p-gen tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### Credits : 
-N17ro aka Noob-Hackers
+N17r0 aka Noob-Hackers
 
-## Github Link of N17RO : 
+## Github Link of N17R0 : 
 https://github.com/noob-hackers
 
 ### p-gen is available for
