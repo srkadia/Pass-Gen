@@ -4,9 +4,8 @@
 </p>
 <a href="https://github.com/Anonymous-srk/Pass-Gen/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Anonymous-srk/Pass-Gen"></a>
 <a href="https://github.com/Anonymous-srk/Pass-Gen/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Anonymous-srk/Pass-Gen"></a>
-<img src=”/home/srk/Pictures/ps.png” />
 
-
+![ps](https://user-images.githubusercontent.com/66236388/86203103-a4d00f80-bb53-11ea-97cf-c7cfb99e7917.png)
 
 
 ## About p-gen tool :
