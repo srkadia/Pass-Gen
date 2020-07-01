@@ -3,10 +3,8 @@
       Simple random password gnerator for Termux
 </p>
 <a href="https://github.com/Anonymous-srk/Pass-Gen/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Anonymous-srk/Pass-Gen"></a>
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Infect)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+<a href="https://github.com/Anonymous-srk/Pass-Gen/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Anonymous-srk/Pass-Gen"></a>
+<img src=”/home/srk/Pictures/ps.png” />
 
 
 
