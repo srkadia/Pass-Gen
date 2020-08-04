@@ -8,9 +8,9 @@
 ![ps](https://user-images.githubusercontent.com/66236388/86203103-a4d00f80-bb53-11ea-97cf-c7cfb99e7917.png)
 
 
-## About p-gen tool :
+## About pass-gen tool :
 
-p-gen tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on both rooted Android device and Non-rooted Android device.
+pass-gen tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### Credits : 
 N17r0 aka Noob-Hackers
@@ -49,7 +49,7 @@ $ pip install random
 $ ls
 ```
 ```
-$ git clone https://github.com/Anonymous-srk/Pass-Gen
+$ git clone https://github.com/srkadia/Pass-Gen.git
 ```
 ```
 $ ls
@@ -68,7 +68,7 @@ ex:- Enter The Length Of The Password: 16
 WOW... you just created a strong password.
 
 ### My Email Id
-srkkadia@gmail.com
+saalabc.6@gmail.com
 
 ### Contact on my Instagram 
 https://instagram.com/srk_132/
