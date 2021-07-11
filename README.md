@@ -62,10 +62,7 @@ ex:- Enter The Length Of The Password: 16
 WOW... you just created a strong password.
 
 ### My Email Id
-saalabc.6@gmail.com
-
-### Contact on my Instagram 
-https://instagram.com/srk_132/
+srkkadia@gmail.com
 
 ### Warning
 
